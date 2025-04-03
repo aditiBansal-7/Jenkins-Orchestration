@@ -156,11 +156,20 @@ docker-compose ps
 #### 🔑 Sign in to Jenkins 🔐
 - Use the credentials created in step **5️⃣**
 
+  ![WhatsApp Image 2025-04-03 at 00 24 08_c2e71b1f](https://github.com/user-attachments/assets/ebb1b37a-ca68-4c59-8423-1a0437ca06fe)
+
+
 #### ▶️ Run the Pipeline 🚦
 - Go to **Jenkins Dashboard** → Open `simple-python-pyinstaller-app`
 - Click **Build Now**
 
 ---
+
+![WhatsApp Image 2025-04-03 at 00 17 28_c3f84286](https://github.com/user-attachments/assets/f08b7735-c2df-4a77-8a12-cffdafd51c6b)
+
+![WhatsApp Image 2025-04-03 at 00 35 45_d2cc790e](https://github.com/user-attachments/assets/811e63c8-8f9e-4df9-8d39-9a7548e423bb)
+
+
 
 ### Step 2: 🛠️ Testing the Executable
 
@@ -169,6 +178,9 @@ docker-compose ps
 2. Click on `simple-python-pyinstaller-app`
 3. Click on the latest build number
 4. Under **Build Artifacts**, download `add2vals`
+
+   ![WhatsApp Image 2025-04-03 at 00 36 10_a33c9685](https://github.com/user-attachments/assets/44484643-31ed-4d0a-b882-b0dd99e11316)
+
 
 ⚠️ **Note:** The executable is a Linux version since Jenkins runs in a Linux container.
 
