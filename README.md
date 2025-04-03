@@ -100,7 +100,7 @@ docker-compose exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
   - Scroll to the **Pipeline** section
   - Select **Pipeline script from SCM**
   - Choose **Git** as SCM
-  - Enter repository URL: `https://github.com/Shelly151/Jenkins-Orchestration.git`
+  - Enter repository URL: `https://github.com/aditiBansal-7/Jenkins-Orchestration.git`
   - Enter branch specifier: `*/master`
   - Click **Save**
 
